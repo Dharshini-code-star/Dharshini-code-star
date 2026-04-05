@@ -1,30 +1,21 @@
  Hi! I'm Dharshini J
 🎓 Computer Science Student@EEC
 💻 Backend with AI focused 
-
+------------------------------------------------------------------------------------------------------------------------------
 👩‍💻 About Me
 I love building real-world projects and exploring how technology can solve everyday problems.  
 I am currently focused on improving my skills in **Data Structures & Algorithms** and **Backend Development**.
-
-💻 Skills: Python, Java, C/C++, HTML, CSS, Backend, APIs, Databases, AI/ML, DSA, JS
-
-🌱 Currently Learning
-- Data Structures & Algorithms  
-- Backend Development  
-- System Design (Basics)
-
-🎯 Goals
-- 🚀 Get a good internship  
-- 📈 Become a strong software developer  
-- 💡 Build impactful real-world projects  
-
+------------------------------------------------------------------------------------------------------------------------------
+💻 Skills: Python, Java, C/C++, HTML, CSS, JS, Backend, APIs, Databases, AI/ML, DSA
+------------------------------------------------------------------------------------------------------------------------------
+🎯 Goals: Get a good internship ,Become a strong software developer ,Build impactful real-world projects  
+------------------------------------------------------------------------------------------------------------------------------
 📫 Connect with Me
-- 📧 Email: jdharshini400@gmail.com 
-- 🔗 LinkedIn: https://www.linkedin.com/in/dharshini-j-21441430a/
-
+ Email: jdharshini400@gmail.com 
+ LinkedIn: https://www.linkedin.com/in/dharshini-j-21441430a/
+-----------------------------------------------------------------------------------------------------------------------------
 ⚡ Fun Fact
-I enjoy turning ideas into projects and constantly challenging myself to learn something new every day 💡
-
+I enjoy turning ideas into projects and constantly challenging myself to learn something new every day.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/dharshini-j-21441430a/) 
