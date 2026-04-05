@@ -1,4 +1,4 @@
-Hi there 👋 I'm Dharshini
+ Hi! I'm Dharshini J
 🎓 Computer Science Student@EEC
 💻 Backend with AI focused 
 
