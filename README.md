@@ -1,7 +1,7 @@
  I'm Dharshini J 
  🎓 CSE Student@EEC 
  💻 Backend Developer with AI/ML Focus
-------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------
 👩‍💻 About Me: I am currently focused on improving my skills in **Data Structures & Algorithms** and **Backend Development**.
 ------------------------------------------------------------------------------------------------------------------------------
 💻 Skills: Python, Java, C/C++, HTML, CSS, JS, Backend, APIs, Databases, AI/ML, DSA
